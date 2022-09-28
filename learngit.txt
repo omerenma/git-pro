@@ -1,1 +1,2 @@
 Fixing merge conflict
+This is master branch
